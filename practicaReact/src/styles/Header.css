@@ -1,0 +1,11 @@
+.link{
+    color: black;
+    font-size: large;
+}
+
+.ContenedorHeader{
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+   justify-content: end;
+   margin-top: 50px;
+}

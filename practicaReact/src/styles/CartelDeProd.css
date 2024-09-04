@@ -1,0 +1,14 @@
+.Imagen{
+    width: 60%;
+    height: 50%;
+    margin-top: 100px;
+}
+
+.cartel{
+    display: grid;
+    grid-template-columns: 600px 600px;
+    grid-template-rows: repeat(4, 1fr);
+    justify-items: center;
+    border: 2px solid black;
+    margin-left: 50px;
+}
